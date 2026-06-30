@@ -1,5 +1,5 @@
 # Oi, eu sou o Diego 👋  
- <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="60"/>
+
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FIAP, ainda no início da jornada. Comecei a programar há pouco tempo, mas já caí de cabeça nos projetos e sempre estou a prcura de aprender mais.
 Entrei em ADS pela curiosidade de entender como as coisas funcionam por trás das telas e também por já ter tido um pouco de contato com a área anteriormente na pandemia quando eu fazia curso, e hoje em dia divido meu tempo entre aulas, projetos em grupo e um pouco de Nintendo Switch nas horas vagas (adoro jogar doubles no Pokémon Champions).
