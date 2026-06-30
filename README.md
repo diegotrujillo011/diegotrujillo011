@@ -29,3 +29,5 @@ Atualmente desenvolvi com o meu grupo o **LocaLead**, um projeto da faculdade qu
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/diego-trujillo-3441b9380/
+- Instagram: https://www.instagram.com/diegotrujillo__19/
+- 
